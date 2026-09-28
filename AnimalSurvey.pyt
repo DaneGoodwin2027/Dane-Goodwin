@@ -1,0 +1,8 @@
+whatis=input("What is your favorite animal?\n")
+physical=input("What is your favorite physcial trait\n")
+movement=input("Can it fly, swim, or neither\n")
+exotic=input("Are they considered an exotic animal\n")
+why=input("Why are they your favorite\n")
+where=input("Where do they live\n")
+danger=input("Are they onsidered dangerous?\n")
+print("Your favorite animal is " + whatis + ". You like them because " + why + ". Your favorite physicl trait of their is " + physical + ". They move by " + movement + ". Are they exotic?" + exotic + ". They live in " + where + ". Are they dangerous? " + danger)
