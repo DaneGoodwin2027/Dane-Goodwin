@@ -1,7 +1,5 @@
-x_input=input("What is your first number? \n")
-y_input=input("What is your first number? \n")
-
-input(" pick: add, sub, mult, divi \n")
+x_input=float(input("What is your first number? \n"))
+y_input=float(input("What is your first number? \n"))
 
 def add(x, y):
     print(x + y)
